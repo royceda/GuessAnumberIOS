@@ -1,2 +1,2 @@
 # GuessAnumberIOS
-An simple ios app to discover Xcode
+A simple Ios app to discover Xcode
